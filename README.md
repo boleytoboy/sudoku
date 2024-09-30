@@ -1,56 +1,56 @@
 
-# Sudoku
+# Судоку
 
-## Mobile Android Application
+## Мобильное Android приложение
 
-### Description
+### Описание
 
-The **Sudoku** mobile app provides players with the following features:
+Мобильное приложение **Судоку** предлагает игрокам следующие возможности:
 
-- Engage in a fun and challenging puzzle-solving experience.
-- Select from a variety of difficulty levels, from beginner to expert.
-- Utilize helpful tools like hints, pencil marks, and undo actions.
-- Track progress with in-game statistics, including the number of levels completed, best winning streaks, and fastest times.
-- Create a personal account to save game progress and view achievements.
-- Play different game modes: classic Sudoku with no time limit, timed Sudoku, and daily random levels.
-- Receive daily challenge reminders and share achievements on social media.
+- Участвуйте в увлекательной и сложной головоломке.
+- Выбирайте уровни сложности: от новичка до эксперта.
+- Используйте полезные инструменты, такие как подсказки, карандашные пометки и отмена действий.
+- Отслеживайте прогресс с помощью игровых статистик, включая количество пройденных уровней, лучшую серию побед и самое быстрое время прохождения.
+- Создавайте личный аккаунт для сохранения игрового прогресса и достижения целей.
+- Играйте в различные режимы: классическое судоку без ограничения времени, судоку на время и ежедневные случайные уровни.
+- Получайте напоминания о ежедневных заданиях и делитесь своими достижениями в социальных сетях.
 
-### Main Screens:
+### Основные экраны:
 
-- **Home** – Displays user profile information, including the player's current stats, progress, and best scores.
-- **Sudoku Grid** – The main gameplay area where players input numbers and use tools like hints or pencil marks.
-- **Game Modes** – A selection screen for choosing between different Sudoku modes (classic, timed, daily challenge).
-- **Statistics** – A page with detailed information about the player's performance, achievements, and comparisons with other players.
-- **Profile** – Player's account information and saved data.
+- **Главная страница** – отображает информацию о профиле пользователя, включая текущие статистические данные игрока, прогресс и лучшие результаты.
+- **Сетка судоку** – основное игровое поле, где игроки вводят числа и используют инструменты, такие как подсказки или карандашные пометки.
+- **Режимы игры** – экран выбора между различными режимами судоку (классический, на время, ежедневные задания).
+- **Статистика** – страница с подробной информацией о результатах игрока, достижениях и сравнении с другими игроками.
+- **Профиль** – информация об аккаунте игрока и сохранённые данные.
 
-### Development:
+### Разработка:
 
-- **Programming Language**: Kotlin
-- **Development Environment**: Android Studio
-- **Source Code**: [GitHub Repository](https://github.com/boleytoboy/sudoku)
+- **Язык программирования**: Kotlin
+- **Среда разработки**: Android Studio
+- **Исходный код**: [GitHub репозиторий](https://github.com/boleytoboy/sudoku)
 
-### Features:
+### Функции:
 
-- **Difficulty Levels**:
-  - Adapt to the game by selecting levels from beginner to expert.
-  
-- **Hints and Tools**:
-  - Use up to three hints per level and access standard tools like pencil marks and undo.
+- **Уровни сложности**:
+  - Выбирайте уровни сложности от новичка до эксперта и адаптируйтесь к игре.
 
-- **Game Modes**:
-  - Classic Sudoku with no time limit.
-  - Timed Sudoku for an added challenge.
-  - Daily challenges for random levels each day.
+- **Подсказки и инструменты**:
+  - Используйте до трёх подсказок на уровне, а также доступ к стандартным инструментам, таким как карандашные пометки и отмена.
 
-- **Progress Tracking**:
-  - View your progress in terms of completed levels, error-free levels, best winning streak, and fastest completion times. Compare your results with other players.
+- **Режимы игры**:
+  - Классическое судоку без ограничения времени.
+  - Судоку на время для дополнительного испытания.
+  - Ежедневные задания с рандомными уровнями каждый день.
 
-- **User Account**:
-  - Save game progress and view achievements by signing into your account.
+- **Отслеживание прогресса**:
+  - Следите за своим прогрессом: количество пройденных уровней, уровни без ошибок, лучшая серия побед и самое быстрое время. Сравните свои результаты с другими игроками.
 
-- **Reminders and Social Sharing**:
-  - Receive reminders about new daily challenges and share your achievements with friends on social media.
+- **Пользовательский аккаунт**:
+  - Сохраняйте игровой процесс и просматривайте свои достижения, войдя в аккаунт.
 
-### Requirements
+- **Напоминания и социальный обмен**:
+  - Получайте уведомления о новых ежедневных заданиях и делитесь своими успехами с друзьями в социальных сетях.
 
-The complete specification for the app's features and requirements can be found [here](https://github.com/boleytoboy/sudoku/blob/main/docs/SRS.md).
+### Требования
+
+Полная спецификация функций и требований приложения доступна [здесь](https://github.com/boleytoboy/sudoku/blob/main/docs/SRS.md).
