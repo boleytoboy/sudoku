@@ -53,4 +53,4 @@ The **Sudoku** mobile app provides players with the following features:
 
 ### Requirements
 
-The complete specification for the app's features and requirements can be found [here](https://github.com/boleytoboy/sudoku).
+The complete specification for the app's features and requirements can be found [here](https://github.com/boleytoboy/sudoku/docs/SRS.md).
