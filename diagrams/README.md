@@ -3,16 +3,16 @@
 ---
 # Содержание
 
-- [Диаграмма состояний]() 
+- [Диаграмма состояний](https://github.com/boleytoboy/sudoku/blob/main/diagrams/state.md) 
 
-- [Поток событий]()
+- [Поток событий](https://github.com/boleytoboy/sudoku/blob/main/diagrams/flow_and_events.md)
 
-- [Диаграмма вариантов использования]()
+- [Диаграмма вариантов использования](https://github.com/boleytoboy/sudoku/blob/main/diagrams/use_case.md)
 
-- [Диаграмма активности]()
+- [Диаграмма активности](https://github.com/boleytoboy/sudoku/blob/main/diagrams/activity.md)
 
-- [Диаграмма классов]()
+- [Диаграмма классов](https://github.com/boleytoboy/sudoku/blob/main/diagrams/class.md)
 
-- [Диаграмма компонентов и развёртывания]()
+- [Диаграмма компонентов и развёртывания](https://github.com/boleytoboy/sudoku/blob/main/diagrams/component_and_deployment.md)
 
-- [Диаграмма последовательности]()
+- [Диаграмма последовательности](https://github.com/boleytoboy/sudoku/blob/main/diagrams/sequence.md)
